@@ -92,8 +92,8 @@ export function ChildProfile() {
               />
             </div>
             <div className="flex-1">
-              <h2 className="text-lg font-semibold text-gray-800">Emma Johnson</h2>
-              <p className="text-gray-600">Grade 5A • Student ID: 12345</p>
+              <h2 className="text-lg font-semibold text-gray-800">Priyanshu Rai</h2>
+              <p className="text-gray-600">Grade 12 A • Student ID: 1250478</p>
               <p className="text-sm text-gray-500">Bus Route #42</p>
             </div>
           </div>
